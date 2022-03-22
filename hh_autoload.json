@@ -1,0 +1,10 @@
+{
+  "roots": [
+    "src/",
+    "build/extracted-examples/",
+    "build/final/codegen/",
+    "tests/"
+  ],
+  "extraFiles": [ "LocalConfig.php" ],
+  "devFailureHandler": null
+}
